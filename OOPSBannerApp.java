@@ -3,7 +3,7 @@ public class OOPSBannerApp{
 		
         String line1 = String.join("",
                 " ***** ",
-                "  ***** ",
+                " ***** ",
                 " ****** ",
                 " ***** ");
 
@@ -39,9 +39,9 @@ public class OOPSBannerApp{
 
         String line7 = String.join("",
                 " ***** ",
-                "  ***** ",
+                " ***** ",
                 " * ",
-                "      ***** ");
+                " ***** ");
 
         System.out.println(line1);
         System.out.println(line2);
